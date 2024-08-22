@@ -5,7 +5,7 @@ namespace CSharpLearning.Delegates
 {
     class FunctionPointer
     {
-        public static void Main()
+        public static void Execute()
         {
 
             List<Employee> emplist = new List<Employee>();

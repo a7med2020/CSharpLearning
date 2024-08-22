@@ -9,14 +9,10 @@ namespace CSharpLearning.Delegates
 {
     class Callbacks
     {
-    }
-
-    class Program
-    {
         // Events uses Delegates
         // Delegates are for callbacks , not encapsulated 
         // Events publisher subscriber model , encapsulated
-        static void Main(string[] args)
+        static void Execute(string[] args)
         {
             MyFileSearch x = new MyFileSearch();
             // publisher -- subcriber

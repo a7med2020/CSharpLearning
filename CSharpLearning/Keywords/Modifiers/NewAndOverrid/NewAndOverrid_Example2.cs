@@ -36,23 +36,23 @@ namespace CSharpLearning.Keywords.Modifiers.NewAndOverrid
 
         public static void TestCars1()
         {
-            System.Console.WriteLine("\nTestCars1");
-            System.Console.WriteLine("----------");
+            Console.WriteLine("\nTestCars1");
+            Console.WriteLine("----------");
 
             Car car1 = new Car();
             car1.DescribeCar();
-            System.Console.WriteLine("----------");
+            Console.WriteLine("----------");
 
             // Notice the output from this test case. The new modifier is  
             // used in the definition of ShowDetails in the ConvertibleCar  
             // class.
             ConvertibleCar car2 = new ConvertibleCar();
             car2.DescribeCar();
-            System.Console.WriteLine("----------");
+            Console.WriteLine("----------");
 
             Minivan car3 = new Minivan();
             car3.DescribeCar();
-            System.Console.WriteLine("----------");
+            Console.WriteLine("----------");
         }
         // Output:  
         // TestCars1  
@@ -69,8 +69,8 @@ namespace CSharpLearning.Keywords.Modifiers.NewAndOverrid
 
         public static void TestCars2()
         {
-            System.Console.WriteLine("\nTestCars2");
-            System.Console.WriteLine("----------");
+            Console.WriteLine("\nTestCars2");
+            Console.WriteLine("----------");
 
             var cars = new List<Car> { new Car(), new ConvertibleCar(),
                 new Minivan() };
@@ -78,7 +78,7 @@ namespace CSharpLearning.Keywords.Modifiers.NewAndOverrid
             foreach (var car in cars)
             {
                 car.DescribeCar();
-                System.Console.WriteLine("----------");
+                Console.WriteLine("----------");
             }
         }
         // Output:  
@@ -96,8 +96,8 @@ namespace CSharpLearning.Keywords.Modifiers.NewAndOverrid
 
         public static void TestCars3()
         {
-            System.Console.WriteLine("\nTestCars3");
-            System.Console.WriteLine("----------");
+            Console.WriteLine("\nTestCars3");
+            Console.WriteLine("----------");
             ConvertibleCar car2 = new ConvertibleCar();
             Minivan car3 = new Minivan();
             car2.ShowDetails();
@@ -111,8 +111,8 @@ namespace CSharpLearning.Keywords.Modifiers.NewAndOverrid
 
         public static void TestCars4()
         {
-            System.Console.WriteLine("\nTestCars4");
-            System.Console.WriteLine("----------");
+            Console.WriteLine("\nTestCars4");
+            Console.WriteLine("----------");
             Car car2 = new ConvertibleCar();
             Car car3 = new Minivan();
             car2.ShowDetails();
@@ -133,13 +133,13 @@ namespace CSharpLearning.Keywords.Modifiers.NewAndOverrid
     {
         public virtual void DescribeCar()
         {
-            System.Console.WriteLine("Four wheels and an engine.");
+            Console.WriteLine("Four wheels and an engine.");
             ShowDetails();
         }
 
         public virtual void ShowDetails()
         {
-            System.Console.WriteLine("Standard transportation.");
+            Console.WriteLine("Standard transportation.");
         }
     }
 
@@ -151,7 +151,7 @@ namespace CSharpLearning.Keywords.Modifiers.NewAndOverrid
     {
         public new void ShowDetails()
         {
-            System.Console.WriteLine("A roof that opens up.");
+            Console.WriteLine("A roof that opens up.");
         }
     }
 
@@ -161,7 +161,7 @@ namespace CSharpLearning.Keywords.Modifiers.NewAndOverrid
     {
         public override void ShowDetails()
         {
-            System.Console.WriteLine("Carries seven people.");
+            Console.WriteLine("Carries seven people.");
         }
     }
 
