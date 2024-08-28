@@ -1,5 +1,8 @@
 ﻿using CSharpLearning.Books.CleanCode;
+using CSharpLearning.Delegates.DifferentFlavorsofDelegate;
+using CSharpLearning.ExceptionHandling;
 using CSharpLearning.Keywords.Modifiers.NewAndOverrid;
+using CSharpLearning.System.IO;
 using CSharpLearning.Threads;
 using System;
 
@@ -18,8 +21,21 @@ namespace CSharpLearning
             //ThreadSynchronizationWithLock.Execute();
 
             //BasicTaskExample.Execute();
+            //Cryptography.Execute();
+            //UsingAsyncAndAwaitWithTasks.Execute();
+            //SHA256Hashing.Execute();
+            //EncodingExample.Execute();
 
-            UsingAsyncAndAwaitWithTasks.Execute();
+            //ExceptionFilter.Execute();
+            //ReadStream.Execute();
+            //ObjectSerializationJSON.Execute();
+
+            //DifferentFlavorsofDelegate.Execute();
+
+            //UsingAsyncAndAwaitWithTasks.Execute();
+            ParallelLoop.Execute();
+
+
             Console.ReadKey();
         }
     }

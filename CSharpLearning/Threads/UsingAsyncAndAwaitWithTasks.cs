@@ -9,6 +9,12 @@ namespace CSharpLearning.Threads
     {
         public static async Task Execute()
         {
+            await Execute2();
+            Console.WriteLine("Hi!");
+        }
+
+        public static async Task Execute2()
+        {
             // Call an asynchronous method
             int result = await CalculateSumAsync(10);
 
@@ -25,5 +31,7 @@ namespace CSharpLearning.Threads
             }
             return sum;
         }
+
+
     }
 }

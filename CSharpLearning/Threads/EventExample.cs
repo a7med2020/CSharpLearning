@@ -40,9 +40,9 @@ namespace CSharpLearning.Threads
     }
 
     // A class that subscribes to the event
-    public class Program
+    public class EventExample
     {
-        static void Main(string[] args)
+        static void Execute()
         {
             // Create an instance of the publisher class
             ProcessBusinessLogic process = new ProcessBusinessLogic();
@@ -62,7 +62,5 @@ namespace CSharpLearning.Threads
             Console.WriteLine("Process completed!");
         }
     }
-    class EventExample
-    {
-    }
+    
 }
