@@ -12,7 +12,7 @@ namespace CSharpLearning.Delegates
         // Events uses Delegates
         // Delegates are for callbacks , not encapsulated 
         // Events publisher subscriber model , encapsulated
-        static void Execute(string[] args)
+       public static void Execute()
         {
             MyFileSearch x = new MyFileSearch();
             // publisher -- subcriber

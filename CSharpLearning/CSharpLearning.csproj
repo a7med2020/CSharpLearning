@@ -38,4 +38,8 @@
     <None Include="CareerDevelopment\.Net\What is managed code_ - .NET _ Microsoft Learn.pdf" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
 </Project>
