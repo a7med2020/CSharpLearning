@@ -1,0 +1,40 @@
+What is ASP.NET WebForms?
+How does the ASP.NET WebForms page life cycle work?
+What are the main components of a WebForms page?
+How do you handle events in WebForms?
+What is ViewState in ASP.NET WebForms?
+How do you manage state in WebForms applications?
+What is the difference between PostBack and Callback?
+How do you use Master Pages in WebForms?
+What are User Controls in WebForms and how do you create them?
+How do you perform validation in WebForms?
+What is the role of the Page_PreRender event?
+How do you use DataBinding in WebForms?
+What are the different ways to bind data to controls in WebForms?
+What is the role of the Global.asax file in WebForms?
+How do you implement custom error handling in WebForms?
+What are the differences between ASP.NET WebForms and ASP.NET MVC?
+How do you manage security and authentication in WebForms applications?
+How do you deploy an ASP.NET WebForms application?
+What is a PostBackURL and how do you use it?
+How do you handle file uploads in WebForms?
+What is the HttpHandler and HttpModule in WebForms?
+How do you use session state in WebForms?
+What are the common server controls in WebForms?
+How do you use AJAX in WebForms?
+How do you optimize performance in a WebForms application?
+What is caching and how do you implement it in WebForms?
+How do you use the UpdatePanel control?
+What are Web Services and how do you consume them in WebForms?
+How do you use GridView, Repeater, and DataList controls?
+How do you handle cross-page posting in WebForms?
+How do you implement role-based security in WebForms?
+What is the difference between Server.Transfer and Response.Redirect?
+How do you use the Timer control in WebForms?
+How do you handle cookies in WebForms?
+How do you use ASP.NET AJAX Toolkit in WebForms?
+What is the difference between client-side and server-side validation?
+How do you implement localization and globalization in WebForms?
+How do you use the DetailsView and FormView controls?
+What are the best practices for maintaining and improving WebForms applications?
+How do you work with URL Routing in WebForms?

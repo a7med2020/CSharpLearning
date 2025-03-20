@@ -16,7 +16,26 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Content Include="CareerDevelopment\.Net\.Net application workflow.png" />
+    <Content Include="CareerDevelopment\.Net\CLR.png" />
+    <Content Include="CareerDevelopment\.Net\Just In Time compiler.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Tips\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="CareerDevelopment\.Net\c# - Confusion About .NET vs .NET Core vs .NET Standard vs .NET Framework - Stack Overflow.pdf" />
+    <None Include="CareerDevelopment\.Net\CLR- Managed Execution Process - .NET _ Microsoft Learn.pdf" />
+    <None Include="CareerDevelopment\.Net\Common Language Runtime %28CLR%29 overview - .NET _ Microsoft Learn.pdf" />
+    <None Include="CareerDevelopment\.Net\data structures - What and where are the stack and heap_ - Stack Overflow.pdf" />
+    <None Include="CareerDevelopment\.Net\Difference between stack and heap - Programmer and Software Interview Questions and Answers.pdf" />
+    <None Include="CareerDevelopment\.Net\Dot Fundamentals Questions 2.docx" />
+    <None Include="CareerDevelopment\.Net\Dot Fundamentals Questions.docx" />
+    <None Include="CareerDevelopment\.Net\Fundamentals of garbage collection - .NET _ Microsoft Learn.pdf" />
+    <None Include="CareerDevelopment\.Net\The history of C# - C# Guide - C# _ Microsoft Learn.pdf" />
+    <None Include="CareerDevelopment\.Net\What is managed code_ - .NET _ Microsoft Learn.pdf" />
   </ItemGroup>
 
 </Project>

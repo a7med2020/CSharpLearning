@@ -1,0 +1,93 @@
+Basic Concepts
+What is ASP.NET Core?
+What are the key differences between ASP.NET Core and ASP.NET?
+What is the role of the Startup class in ASP.NET Core?
+What is the Program class in ASP.NET Core?
+What are middleware components in ASP.NET Core?
+How do you configure middleware in ASP.NET Core?
+What is dependency injection, and how is it used in ASP.NET Core?
+What are the built-in services provided by ASP.NET Core?(X)
+How do you configure routing in ASP.NET Core?
+Configuration and Setup
+How do you create a new ASP.NET Core project?
+What are the different project templates available in ASP.NET Core?
+How do you manage app settings in ASP.NET Core?
+How do you configure environment-specific settings in ASP.NET Core?
+How do you use logging in ASP.NET Core?
+What's the difference between inprocess and outprcoess in dotnet core 
+What is Kestrel, and what role does it play in ASP.NET Core?
+MVC and Web API
+What is the Model-View-Controller (MVC) pattern?
+How do you create a controller in ASP.NET Core MVC?
+How do you create views in ASP.NET Core MVC?
+What is Razor syntax, and how is it used in ASP.NET Core?
+How do you create a Web API in ASP.NET Core?
+How do you configure routing for a Web API in ASP.NET Core?
+What is the role of the [ApiController] attribute in ASP.NET Core?
+How do you handle JSON data in ASP.NET Core Web API?
+How do you return different types of responses from a Web API controller?
+Authentication and Authorization
+What are the different authentication methods available in ASP.NET Core?
+How do you implement cookie-based authentication in ASP.NET Core?
+How do you implement JWT (JSON Web Token) authentication in ASP.NET Core?
+What is IdentityServer4, and how is it used in ASP.NET Core?
+How do you implement role-based authorization in ASP.NET Core?
+What is policy-based authorization, and how do you implement it in ASP.NET Core?
+Dependency Injection and Services
+What is the IServiceCollection interface?
+How do you register services in the ASP.NET Core dependency injection container?
+What are the different service lifetimes in ASP.NET Core?
+Transient
+Scoped
+Singleton
+How do you inject services into controllers or other classes in ASP.NET Core?
+What is the difference between AddSingleton, AddScoped, and AddTransient methods?
+Middleware
+What are middleware components in ASP.NET Core?
+How do you create custom middleware in ASP.NET Core?
+How do you configure the middleware pipeline in ASP.NET Core?
+What are some common built-in middleware components in ASP.NET Core?
+Data Access and Entity Framework
+How do you set up Entity Framework Core in an ASP.NET Core project?
+What is a DbContext, and how is it used in ASP.NET Core?
+How do you configure a connection string in ASP.NET Core?
+How do you create and apply migrations in Entity Framework Core?
+How do you perform CRUD operations using Entity Framework Core in ASP.NET Core?
+How do you seed data in Entity Framework Core?
+How do you handle transactions in Entity Framework Core?
+Advanced Topics
+How do you handle file uploads in ASP.NET Core?
+How do you use SignalR for real-time communication in ASP.NET Core?
+What are gRPC services, and how do you use them in ASP.NET Core?
+How do you implement background tasks in ASP.NET Core?
+What is health monitoring, and how do you implement it in ASP.NET Core?
+How do you implement global exception handling in ASP.NET Core?
+Security
+How do you implement HTTPS redirection in ASP.NET Core?
+How do you configure CORS (Cross-Origin Resource Sharing) in ASP.NET Core?
+What is data protection, and how do you use it in ASP.NET Core?
+How do you protect against XSS (Cross-Site Scripting) in ASP.NET Core?
+How do you protect against CSRF (Cross-Site Request Forgery) in ASP.NET Core?
+Testing
+How do you unit test ASP.NET Core applications?
+What is integration testing, and how do you perform it in ASP.NET Core?
+How do you use TestServer for testing ASP.NET Core applications?
+Deployment and Hosting
+How do you deploy an ASP.NET Core application to IIS?
+How do you deploy an ASP.NET Core application to Azure?
+How do you use Docker with ASP.NET Core?
+What is the role of the web.config file in ASP.NET Core applications?
+Performance and Optimization
+How do you improve the performance of an ASP.NET Core application?
+How do you use caching in ASP.NET Core?
+What is response compression, and how do you implement it in ASP.NET Core?
+How do you use memory caching in ASP.NET Core?
+How do you use distributed caching in ASP.NET Core?
+Miscellaneous
+What are tag helpers in ASP.NET Core?
+How do you create custom tag helpers in ASP.NET Core?
+What is ViewComponent in ASP.NET Core?
+How do you use ViewComponent in ASP.NET Core?
+What is the difference between Razor Pages and MVC in ASP.NET Core?
+What is Blazor, and how does it relate to ASP.NET Core?
+These questions cover a wide range of topics and provide a thorough understanding of ASP.NET Core, from basic concepts to advanced scenarios and practical use cases.
