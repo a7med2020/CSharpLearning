@@ -1,0 +1,26 @@
+What is Entity Framework (EF)?
+What are the advantages of using Entity Framework?
+What are the different approaches to working with Entity Framework?
+What is Code-First approach in Entity Framework?
+What is Database-First approach in Entity Framework?
+What is Model-First approach in Entity Framework?
+What is the DbContext in Entity Framework?
+Explain the concept of DbSet in Entity Framework.
+What is the role of migrations in Entity Framework?
+How do you map entities to database tables in Entity Framework?
+Explain the concept of lazy loading in Entity Framework.
+What is eager loading in Entity Framework?
+What is explicit loading in Entity Framework?
+How do you execute raw SQL queries in Entity Framework?
+Fromsqlinterpolated vs Fromsqlraw
+What are the different types of relationships supported by Entity Framework?
+How do you configure relationships in Entity Framework?
+What is the difference between Include and ThenInclude methods in Entity Framework?
+How do you perform CRUD operations using Entity Framework?
+Explain the concept of change tracking in Entity Framework.
+How do you handle concurrency in Entity Framework?
+What is the role of the Entity Framework Designer in Visual Studio?
+How do you improve performance in Entity Framework?
+How do you handle transactions in Entity Framework?
+What are the limitations of Entity Framework?
+How do you unit test code that uses Entity Framework?

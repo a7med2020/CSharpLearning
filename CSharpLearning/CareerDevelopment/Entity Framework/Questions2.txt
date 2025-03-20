@@ -1,0 +1,79 @@
+Basic Concepts
+What is Entity Framework?
+What are the different approaches to using Entity Framework?
+Code-First
+Database-First
+Model-First
+What is Code-First approach in Entity Framework?
+What is Database-First approach in Entity Framework?
+What is Model-First approach in Entity Framework?
+What is a DbContext?
+What is a DbSet?
+What are POCO entities?
+What is the role of migrations in Entity Framework?
+What are the advantages of using Entity Framework?
+Configuration and Setup
+How do you install Entity Framework in a .NET project?
+How do you configure Entity Framework in a .NET Core console application?
+How do you define relationships between entities in Entity Framework?
+How do you configure a connection string in Entity Framework?
+Querying Data
+How do you query data using Entity Framework?
+What is eager loading in Entity Framework?
+What is lazy loading in Entity Framework?
+What is explicit loading in Entity Framework?
+What are Include and ThenInclude methods in Entity Framework?
+What is the N+1 query problem, and how can it be avoided in Entity Framework?
+CRUD Operations
+How do you perform CRUD operations using Entity Framework?
+How do you insert data using Entity Framework?
+How do you update data using Entity Framework?
+How do you delete data using Entity Framework?
+How do you handle transactions in Entity Framework?
+Advanced Concepts
+What is change tracking in Entity Framework?
+How does Entity Framework handle concurrency?
+What is optimistic concurrency in Entity Framework?
+What is pessimistic concurrency in Entity Framework?
+What are compiled queries in Entity Framework?
+How do you execute raw SQL queries in Entity Framework?
+How do you use stored procedures with Entity Framework?
+Performance
+How do you improve performance in Entity Framework?
+What is the difference between IQueryable and IEnumerable in Entity Framework?
+What is deferred execution in Entity Framework?
+How do you handle large data sets in Entity Framework?
+Testing
+How do you unit test code that uses Entity Framework?
+What are the best practices for testing Entity Framework code?
+Error Handling and Debugging
+How do you handle exceptions in Entity Framework?
+What are the common exceptions in Entity Framework, and how do you handle them?
+How do you debug issues in Entity Framework?
+Miscellaneous
+What are the different types of relationships supported by Entity Framework?
+One-to-One
+One-to-Many
+Many-to-Many
+How do you map entities to database tables in Entity Framework?
+What is the role of the Entity Framework Designer in Visual Studio?
+What are the limitations of Entity Framework?
+Practical Scenarios
+How do you perform a bulk insert in Entity Framework?
+How do you handle database schema changes in Entity Framework?
+How do you seed data in Entity Framework?
+How do you use Entity Framework with a NoSQL database?
+What are the differences between LINQ to SQL and Entity Framework?
+Entity Framework Core Specific
+What are the new features in Entity Framework Core compared to Entity Framework 6?
+How do you set up Entity Framework Core in a .NET Core project?
+What are the supported databases in Entity Framework Core?
+How do you handle migrations in Entity Framework Core?
+How do you handle disconnected entities in Entity Framework Core?
+What are the differences between Entity Framework Core and Entity Framework 6?
+Context and Lifecycle Management
+What is the lifecycle of a DbContext in Entity Framework?
+How do you manage DbContext in a web application?
+How do you handle multiple DbContexts in a single application?
+How do you implement repository and unit of work patterns with Entity Framework?
+These questions cover a wide range of topics and provide a thorough understanding of Entity Framework, from basic concepts to advanced scenarios and practical use cases.
